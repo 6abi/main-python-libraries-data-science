@@ -25,6 +25,9 @@
 <div align="center" class='container'>
 	<h2 align="center"> 🛠 Tecnologias envolvidas</h2>
 		<a href="https://www.python.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130" height="40" alt="Python3" /></a>
+		<a href="https://colab.research.google.com/notebooks/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252e" width="130" height="40" alt="Colab" /></a>
+		<a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" width="130" height="40" alt="Pycharm" /></a>
+	
 	</div>
 </div>
 
@@ -41,7 +44,8 @@
 <div align="center" class='container'>
 	<h2 align="center">🏃‍♀️ Como Executar este projeto? </h2>
 	<p align="left"> 1. Tenha o Python3 instalado, caso execute localmente</p>
-  <p align="left"> 1.1 Use um framework de sua preferência, Pycharm, Spider, etc</p>
+  	<p align="left"> 1.1 Use um framework de sua preferência, Pycharm, Spider, etc</p>
+	<p align="left"> 1.2 Nesse projeto foi utilizado o Pycharm</p>
 	<p align="left"> 2. Tenha uma conta no Google Colab</p>
 	<p align="left"> 2.1 Crie um notebook e copie e cole os códigos nele para executar</p>
 	<p align="center">Done ! ✅</p>
