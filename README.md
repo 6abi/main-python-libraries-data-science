@@ -24,19 +24,19 @@
 <!-- Tecnologias envolvidas -->
 <div align="center" class='container'>
 	<h2 align="center"> 🛠 Tecnologias envolvidas</h2>
-		<a href="https://www.python.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130" height="30" alt="Python3" /></a>
-		<a href="https://colab.research.google.com/notebooks/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252e" width="130" height="30" alt="Colab" /></a>
-		<a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" width="130" height="30" alt="Pycharm" /></a>
+		<a href="https://www.python.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="120" height="30" alt="Python3" /></a>
+		<a href="https://colab.research.google.com/notebooks/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252e" width="120" height="30" alt="Colab" /></a>
+		<a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" width="120" height="30" alt="Pycharm" /></a>
 	
-	</div>
 </div>
 
 <!-- Requirements -->
-
+<div align="center" class='container'>
 	<h2 align="center">👨‍💻 Pré-requisitos </h2>
 	<p align="center">Python3 instalado</p>
   	<p align="center">OU</p>
   	<p align="center">Conta no Google Colab</p>
+</div>
 
 
 
