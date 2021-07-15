@@ -32,17 +32,8 @@
 <div align="center" class='container'>
 	<h2 align="center">👨‍💻 Pré-requisitos </h2>
 	<p align="center">Python3 instalado</p>
-  <p align="center">OU</p>
-  <p align="center">Conta no Google Colab</p>
-  
-	<table>
-	  <tbody>
-	    	<tr>
-			<th>  </th>
-			<th align="center"> </th>
-		</tr>
-	  </tbody>
-	</table>
+  	<p align="center">OU</p>
+  	<p align="center">Conta no Google Colab</p>
 </div>
 
 
