@@ -50,15 +50,3 @@
 	<p align="left"> 2.1 Crie um notebook e copie e cole os códigos nele para executar</p>
 	<p align="center">Done ! ✅</p>
 </div>
-
-<!-- Resultados -->
-<!-- Resultado API -->
-<div align="center" class='container'>
-	<h2 align="center"> ⚡ Resultados ⚡</h2>
-</div>
-
-<!-- Resultados parciais -->
-<!--<div align="center" class='result'>
-	<h3 align="center"> ➡ Alguns testes com Postman ⬅</h3>
-	<img alt="#result_postman" title="#result_postman" src="./results_git/result_postman.png" width=1200" height="600"/>
-</div>-->
